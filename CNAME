@@ -1,4 +1,4 @@
-echo "blxq.xyz"> CNAME
+echo "blxq.xyz">CNAME
 git add CNAME
 git commit -m "Add CNAME file"
 git push origin main
